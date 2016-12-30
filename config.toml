@@ -2,7 +2,7 @@
 #
 baseurl = "https://kennyg.github.io/"
 languageCode = "en-us"
-title = "Orbitalworks"
+title = "orbitalworks"
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -70,7 +70,7 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "A simple Hugo blog"
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
@@ -82,7 +82,7 @@ paginate = 5
 
   [params.sharingicons]
     # Hide the sharing icons on posts? (Default: false)
-    hide = true
+    hide = false
 
     # Optionally, set any of these to false to hide them:
     facebook = true
